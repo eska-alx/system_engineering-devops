@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# This script displays numbers from 1 to 20. For specific iterations, it displays additional "bad luck" messages.
+
 count=1
 while [ $count -le 20 ]
 do

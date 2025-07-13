@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# This script lists the contents of the current directory, displaying the part of the filename after the first dash (-).
+
 for file in $(ls)
 do
     # Skip hidden files
