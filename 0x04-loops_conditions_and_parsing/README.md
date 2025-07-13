@@ -1,7 +1,3 @@
-Certainly! Here's an example of a `README.md` file that explains the tasks and the Bash scripts you've written, including the purpose and how to execute them:
-
-### `README.md`
-
 ````markdown
 # System Engineering - DevOps Bash Scripts
 
@@ -128,14 +124,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
-### Explanation of the `README.md`:
-
-- **Table of Contents**: Provides quick access to the sections of the file, each corresponding to a specific script.
-- **Scripts Section**: For each task, the `README.md` file includes the following information:
-  - **File Name**: The script file name.
-  - **Description**: A brief explanation of what the script does.
-  - **How to Execute**: Instructions on how to make the script executable and run it.
-
-This `README.md` provides an overview of the scripts, making it easier for anyone using the repository to understand the purpose of each script and how to run them.
 ```
 
