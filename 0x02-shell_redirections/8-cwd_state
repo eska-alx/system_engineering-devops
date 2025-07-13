@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p | grep -v / > ls_cwd_content
+ls -1 | grep -v '^\.$'
