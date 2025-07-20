@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Displays a comprehensive list of all running processes with hierarchy
+
+ps axfo user:20,pid,%cpu,%mem,vsz,rss,tty,stat,start_time,time,command
